@@ -1,0 +1,16 @@
+#For Flex display
+There are 2 main axis in which your content is align to 
+
+1. Main axis(x-axis)
+2. Cross axis(y-axis)
+
+1. Justify content is used to align items along main axis 
+2. Align items is used to alin items along cross axis
+
+3. flex-diraction: This property controls the directions of the flex box
+
+4. flex-wrap: This property will align your items according to the size of the page automatically
+
+5. align-content: This property will give all the items a singular axis
+
+ 
